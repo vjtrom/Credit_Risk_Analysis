@@ -32,6 +32,6 @@ In addition to working through the example, the student is also exposed to super
 
 # Recommendation:
 
-Based on the results, the Naive Random Oversampling and Random Forests models seem to have the best predicitve power. Specifically, the Naive Random Oversampling model has balanced accurancy score of .67 which is the highest of all the models. It also has good precision and a recall rate of .66. The Random Forest model had a balanced accuracy score of .68, and it also had very high recall and f1 scores. 
+Based on the results, Random Forests models seem to have the best predicitve power The Random Forest model had a balanced accuracy score of .68, and it also had very high recall and f1 scores. The Naive Random Oversampling model was also good with a balanced accurancy score of .67 which is the highest of all the models. It also has good precision and a recall rate of .66.
 
 Conversely, the Undersampling model seems to have the worst performance, with a balanced accuracy score of .57 and lower scores for recall and f1. 
