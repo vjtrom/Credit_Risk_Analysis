@@ -17,3 +17,4 @@
 ![](https://github.com/vjtrom/Credit_Risk_Analysis/blob/main/images/Random%20Forest.png)
 
 ## ADABOOST CLASSIFIER
+![](https://github.com/vjtrom/Credit_Risk_Analysis/blob/main/images/AdaptBoost.png)
